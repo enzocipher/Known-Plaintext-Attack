@@ -2,6 +2,9 @@
 name = "Plaintext_XOR_Decryptor"
 version = "0.1.0"
 edition = "2024"
+authors = ["Enzo Favio"]
+description = "Simple algorithm to recover the key using a known plaintext."
+links = "https://github.com/enzocipher/Known-Plaintext-Attack"
 
 [dependencies]
 hex = "0.4"
